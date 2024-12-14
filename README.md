@@ -1,10 +1,19 @@
 # PMU-B-PersonalAI
 💫 About Me:
-Hi there 👋 My name is Baiyok [Thailand/BKK]<br><br>🎓 I’m currently studying at Thai-Nichi Institute of Technology and participating in the Esan Coding Hackathon under the Personal AI category.<br><br>💻 I’m learning Python, Java, and C, diving deeper into the world of programming every day!<br><br>
+Hi there 👋 My name is Baiyok [Thailand/BKK]<br><br>🎓 I’m currently studying at **Thai-Nichi Institute of Technology** and participating in the Esan Coding Hackathon under the Personal AI category.<br><br>💻 I’m learning Python, Java, and C, diving deeper into the world of programming every day!<br><br>
 -----
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Luajade2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+| CLASS | NAME | WORKSHOP | LECTURE | DOCUMENT |
+| --- | --- | --- | --- | --- |
+| 1 | XPORE: AN AI-POWERED APP FOR BIOINFORMATICS | GAUSSIAN MIXTURE MODEL | LECTURE 1 | DOCUMENT 1 |
+| 2 | LEARNING FROM BIOSIGNAL | 1D CNN FOR BRAIN SIGNAL | LECTURE 2 | DOCUMENT 2 |
+| 3 | AI FOR DETECTING CODE PLAGIARISM | CODE2VEC TO DETECT CODE CLONE | LECTURE 3 | DOCUMENT 3 |
+| 4 | MENTAL DISORDER DETECTION FROM SOCIAL MEDIA DATA | NLP CLASSIFICATION | LECTURE 4 | DOCUMENT 4 |
+| 5 | BITNET: AI FOR DIAGNOSING ULTRASOUND IMAGE | EFFICIENTNET: IMAGE CLASSIFICAITION | LECTURE 5 | DOCUMENT 5 |
+| 6 | AI FOR ARRESTING CRIMINALS | YOLO DETECTION // FACE RECOGNITION | LECTURE 6 | DOCUMENT 6 |
 
 ## 🌐 Socials:
 instargram : yokbxi._
