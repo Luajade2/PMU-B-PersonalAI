@@ -15,8 +15,12 @@ Hi there 👋 My name is Baiyok [Thailand/BKK]<br><br>🎓 I’m currently study
 | 5 | BITNET: AI FOR DIAGNOSING ULTRASOUND IMAGE | EFFICIENTNET: IMAGE CLASSIFICAITION | LECTURE 5 | DOCUMENT 5 |
 | 6 | AI FOR ARRESTING CRIMINALS | YOLO DETECTION // FACE RECOGNITION | [LECTURE 6](https://drive.google.com/file/d/1wosRWvD8PtH41OCcab2xaVNC_pi4B3EF/view?usp=sharing) | DOCUMENT 6 |
 
-# Document LECTURE (in case can't open the code above)
+# LECTURE (in case can't open the code above)
 https://drive.google.com/drive/u/0/folders/1XAE96kiH4eg0hiKd0gpwiwYOebDkmxEx
+# Document Excercise (in case can't open the code above)
+https://drive.google.com/drive/folders/1Ux26Klsa32Mocb2tpOleBpkzwKeu7Rnp?usp=sharing
+
+
 
 ## 🌐 Socials:
 instargram : yokbxi._
