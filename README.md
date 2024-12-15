@@ -8,7 +8,7 @@ Hi there 👋 My name is Baiyok [Thailand/BKK]<br><br>🎓 I’m currently study
 
 | CLASS | NAME | WORKSHOP | LECTURE | DOCUMENT |
 | --- | --- | --- | --- | --- |
-| 1 | XPORE: AN AI-POWERED APP FOR BIOINFORMATICS | GAUSSIAN MIXTURE MODEL | LECTURE 1 | DOCUMENT 1 |
+| 1 | XPORE: AN AI-POWERED APP FOR BIOINFORMATICS | GAUSSIAN MIXTURE MODEL | LECTURE 1 | [DOCUMENT 1](https://drive.google.com/file/d/1usGO3Ihpyxu4jYAR6CRo8O5btYiZ7Ceu/view?usp=sharing) |
 | 2 | LEARNING FROM BIOSIGNAL | 1D CNN FOR BRAIN SIGNAL | [LECTURE 2](https://drive.google.com/file/d/1nnQVXz_r6Dd6RT1bOn7cpdnNh2vCB-JR/view?usp=sharing) | DOCUMENT 2 |
 | 3 | AI FOR DETECTING CODE PLAGIARISM | CODE2VEC TO DETECT CODE CLONE | [LECTURE 3](https://drive.google.com/file/d/1Ziyri_jlC3TZKwGjoTTQ9-EK9RuzlrNj/view?usp=sharing) | [DOCUMENT 3](https://drive.google.com/file/d/1MFoHN-6juZzX-fRgcrG4PfpIbVl_SWb8/view?usp=drive_link) |
 | 4 | MENTAL DISORDER DETECTION FROM SOCIAL MEDIA DATA | NLP CLASSIFICATION | [LECTURE 4](https://drive.google.com/file/d/1wQzNkjz7a9UcQFlF-w_9rs2AAsFv5e9b/view?usp=sharing) | [DOCUMENT 4](https://drive.google.com/file/d/18v791VfKySp7R9XKsRxZuUfnsXrygEQq/view?usp=drive_link) |
