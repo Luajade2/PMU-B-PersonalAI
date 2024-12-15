@@ -2,6 +2,7 @@
 💫 About Me:
 Hi there 👋 My name is Baiyok [Thailand/BKK]<br><br>🎓 I’m currently studying at **Thai-Nichi Institute of Technology** and participating in the Esan Coding Hackathon under the Personal AI category.<br><br>💻 I’m learning Python, Java, and C, diving deeper into the world of programming every day!<br><br>
 -----
+## [Watch the video HERE](https://youtu.be/EA4Q1pLF-sA)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Luajade2&limit=5&theme=dark&combine_all_yearly_contributions=true)
